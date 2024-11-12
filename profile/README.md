@@ -1,12 +1,6 @@
 ## Hi there 👋
 
-<!--
+这是 [WebStack-Hugo](https://github.com/shenweiyan/WebStack-Hugo) 项目的 **Insiders** 版本，相比较开源版本增加了一些其他功能。
 
-**Here are some ideas to get you started:**
+- 2024年11月12日 - 增加心知天气 widgetv3 插件与自适应。
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
