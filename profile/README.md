@@ -20,11 +20,17 @@
 
 - https://bioit.top/
 
-## NavStack Insiders 主题
+## NavPage Insiders 主题
 
-源自于 [WebStack-Hugo](https://github.com/shenweiyan/webstack-hugo) 的一个纯静态网址导航主题，目前暂未开放。
+这是一个**付费**的主题，包含了 Demo 站点源码 ([NavPage-Insiders](https://github.com/NavPage/NavPage-Insiders)) 和 [NavPage-Hugo-Theme](https://github.com/NavPage/NavPage-Hugo-Theme) 主题，你如果需要创建一个类似的导航站点，可以通过付费的方式 (暂定 ￥9.9，请邮件联系作者)，获取该两个仓库的 Private 下载链接。
 
-## Hugo 版 WebStack 主题
+- [shen@weiyan.tech](mailto:shen@weiyan.tech?subject=NavPage-Insiders网址导航支付申请)
+
+除此以外，我们还可以提供付费部署服务（详情可通过以上邮箱联系作者），可以通过付费的方式帮你完成 NavPage/WebStack-Hugo 在以下托管平台的部署。
+
+- [Webify](https://webify.cloudbase.net/) | [Netlify](https://app.netlify.com/) | [Cloudflare Pages](https://pages.cloudflare.com) | [Vercel](https://vercel.com) | [Github Pages](https://pages.github.com/)
+
+## WebStack-Hugo 主题
 
 WebStack 网址导航 Hugo 主题 [WebStack-Hugo](https://github.com/shenweiyan/webstack-hugo) 是一个无需服务器，支持导航一键配置的纯静态网址导航网站。[WebStack-Hugo](https://github.com/shenweiyan/webstack-hugo) 是一个开源的公益项目，你可以拿来制作自己的网址导航，也可以做与导航无关的网站。
 
