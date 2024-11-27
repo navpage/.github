@@ -28,8 +28,3 @@
 除此以外，我们还可以提供付费部署服务（详情可通过以上邮箱联系作者），可以通过付费的方式帮你完成 NavPage/WebStack-Hugo 在以下托管平台的部署。
 
 - [Webify](https://webify.cloudbase.net/) | [Netlify](https://app.netlify.com/) | [Cloudflare Pages](https://pages.cloudflare.com) | [Vercel](https://vercel.com) | [Github Pages](https://pages.github.com/)
-
-## WebStack-Hugo 主题
-
-WebStack 网址导航 Hugo 主题 [WebStack-Hugo](https://github.com/shenweiyan/webstack-hugo) 是一个无需服务器，支持导航一键配置的纯静态网址导航网站。[WebStack-Hugo](https://github.com/shenweiyan/webstack-hugo) 是一个开源的公益项目，你可以拿来制作自己的网址导航，也可以做与导航无关的网站。
-
