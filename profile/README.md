@@ -5,6 +5,12 @@
 
 [NavPage-Hugo-Theme](https://github.com/NavPage/NavPage-Hugo-Theme) 是 [WebStack-Hugo](https://github.com/shenweiyan/WebStack-Hugo) 的一个 **Insiders** 版本，相比较开源版本进行了[**部分优化与功能更新**](https://github.com/orgs/NavPage/discussions/4)。
 
+- 博客集成
+- 小游戏
+- 天气插件
+- 代码优化
+- ......
+
 [WebStack-Hugo](https://github.com/shenweiyan/WebStack-Hugo) 开源版本的主要功能已经比较完善，基本可以满足大部分个人导航的使用需求，后续将转向对 [**Insiders**](https://github.com/NavPage/NavPage-Hugo-Theme) 版本进行维护。
 
 任何问题与建议，欢迎移步 [Discussions](https://github.com/orgs/NavPage/discussions) 参与讨论。
