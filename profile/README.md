@@ -3,7 +3,7 @@
 > 
 > **🌹  如果你觉得本主题对你有所帮助，欢迎请作者 [喝杯咖啡](https://kg.weiyan.cc/0000/img/donate.webp) >.<**
 
-[NavPage-Hugo-Theme](https://github.com/NavPage/NavPage-Hugo-Theme) 是 [WebStack-Hugo](https://github.com/shenweiyan/WebStack-Hugo) 的一个 **Insiders** 版本，相比较开源版本进行了[部分优化与功能更新](https://github.com/orgs/NavPage/discussions/4)。
+[NavPage-Hugo-Theme](https://github.com/NavPage/NavPage-Hugo-Theme) 是 [WebStack-Hugo](https://github.com/shenweiyan/WebStack-Hugo) 的一个 **Insiders** 版本，相比较开源版本进行了[**部分优化与功能更新**](https://github.com/orgs/NavPage/discussions/4)。
 
 [WebStack-Hugo](https://github.com/shenweiyan/WebStack-Hugo) 开源版本的主要功能已经比较完善，基本可以满足大部分个人导航的使用需求，后续将转向对 [**Insiders**](https://github.com/NavPage/NavPage-Hugo-Theme) 版本进行维护。
 
