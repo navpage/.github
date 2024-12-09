@@ -13,8 +13,6 @@
 
 [WebStack-Hugo](https://github.com/shenweiyan/WebStack-Hugo) 开源版本的主要功能已经比较完善，基本可以满足大部分个人导航的使用需求，后续将转向对 [**Insiders**](https://github.com/NavPage/NavPage-Hugo-Theme) 版本进行维护。
 
-任何问题与建议，欢迎移步 [Discussions](https://github.com/orgs/NavPage/discussions) 参与讨论。
-
 
 ## 主题地址
 
@@ -34,3 +32,9 @@
 除此以外，我们还可以提供付费部署服务（详情可通过以上邮箱联系作者），可以通过付费的方式帮你完成 [NavPage-Insiders](https://github.com/NavPage/NavPage-Insiders) 在以下托管平台的部署。
 
 - [Webify](https://webify.cloudbase.net/) | [Netlify](https://app.netlify.com/) | [Cloudflare Pages](https://pages.cloudflare.com) | [Vercel](https://vercel.com) | [Github Pages](https://pages.github.com/)
+
+## 反馈与建议
+
+任何问题与建议，欢迎移步 [Discussions](https://github.com/orgs/NavPage/discussions) 参与讨论。
+
+Insiders 版本相关的问题请移步 [**Insiders Discussions**](https://github.com/NavPage/NavPage-Insiders/discussions) 进行反馈，感谢您的支持 >.<
