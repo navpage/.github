@@ -31,6 +31,6 @@
 
 - [shen@weiyan.tech](mailto:shen@weiyan.tech?subject=NavPage-Insiders网址导航支付申请)
 
-除此以外，我们还可以提供付费部署服务（详情可通过以上邮箱联系作者），可以通过付费的方式帮你完成 NavPage/WebStack-Hugo 在以下托管平台的部署。
+除此以外，我们还可以提供付费部署服务（详情可通过以上邮箱联系作者），可以通过付费的方式帮你完成 [NavPage-Insiders](https://github.com/NavPage/NavPage-Insiders) 在以下托管平台的部署。
 
 - [Webify](https://webify.cloudbase.net/) | [Netlify](https://app.netlify.com/) | [Cloudflare Pages](https://pages.cloudflare.com) | [Vercel](https://vercel.com) | [Github Pages](https://pages.github.com/)
