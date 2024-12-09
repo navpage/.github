@@ -27,8 +27,6 @@
 
 这是一个**付费**的主题，包含了 Demo 站点源码 ([NavPage-Insiders](https://github.com/NavPage/NavPage-Insiders)) 和 [NavPage-Hugo-Theme](https://github.com/NavPage/NavPage-Hugo-Theme) 主题，你如果需要创建一个类似的导航站点，可以通过付费的方式 ([付费说明](https://github.com/orgs/NavPage/discussions/2))，获取该两个仓库的 Private 下载链接或者永久使用权限。
 
-- [shen@weiyan.tech](mailto:shen@weiyan.tech?subject=NavPage-Insiders网址导航支付申请)
-
 除此以外，我们还可以提供付费部署服务（详情可通过以上邮箱联系作者），可以通过付费的方式帮你完成 [NavPage-Insiders](https://github.com/NavPage/NavPage-Insiders) 在以下托管平台的部署。
 
 - [Webify](https://webify.cloudbase.net/) | [Netlify](https://app.netlify.com/) | [Cloudflare Pages](https://pages.cloudflare.com) | [Vercel](https://vercel.com) | [Github Pages](https://pages.github.com/)
