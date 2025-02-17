@@ -3,7 +3,7 @@
 > 
 > **🌹  如果你觉得本主题对你有所帮助，欢迎请作者 [喝杯咖啡](https://kg.weiyan.cc/0000/img/donate.webp) >.<**
 
-[NavPage-Hugo-Theme](https://github.com/NavPage/NavPage-Hugo-Theme) 是 [WebStack-Hugo](https://github.com/shenweiyan/WebStack-Hugo) 的一个 **Insiders** 版本，相比较开源版本进行了[**部分优化与功能更新**](https://github.com/orgs/NavPage/discussions/4)。
+[NavPage-Hugo-Theme](https://github.com/NavPage/NavPage-Hugo-Theme) 是 [WebStack-Hugo](https://github.com/shenweiyan/WebStack-Hugo) 的一个 **Insiders** 版本，相比较开源版本进行了[**部分优化与功能更新**](https://github.com/orgs/navpage/discussions/4)。
 
 - 博客集成
 - 小游戏
@@ -16,7 +16,7 @@
 
 ## 主题地址
 
-- <https://github.com/NavPage/NavPage-Hugo-Theme>（[付费获取主题](https://github.com/orgs/NavPage/discussions/2)）
+- <https://github.com/navpage/NavPage-Hugo-Theme>（[**付费获取主题**](https://github.com/orgs/NavPage/discussions/2)）
 
 
 ## 主题展示地址
